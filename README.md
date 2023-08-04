@@ -6,23 +6,22 @@ Projects
 
 Here are some of the projects that I have worked on:
 
-Project A: Brief description of Project A.
-Project B: Brief description of Project B.
-Project C: Brief description of Project C.
++ Project A: Brief description of Project A.
++ Project B: Brief description of Project B.
++ Project C: Brief description of Project C.
+
 CV
 
-You can find my latest CV here.
+You can find my latest CV here (link)
 
 Technologies Used
 
-HTML
-CSS
-JavaScript
-React
-Node.js
-Express
-MongoDB
-and more...
++ HTML
++ CSS
++ JavaScript
++ React
++ Node.js
++ Express
 
 Contact Me
 
